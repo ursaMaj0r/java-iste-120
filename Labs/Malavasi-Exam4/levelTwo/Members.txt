@@ -1,0 +1,25 @@
+
+Patient Report:
+
+Primary Member 00886: Robert J. Smith is a Primary member.
+The default account is a savings account.
+The account balance is $129,325.56
+
+Secondary Member 13817: Sally R. Schultz is a Secondary member.
+The default account is a checking account.
+The member is authorized: yes
+
+Primary Member 03527: Judith A. Barth is a Primary member.
+The default account is a checking account.
+The account balance is $2,748.90
+
+Secondary Member 36198: Diane C. Baker is a Secondary member.
+The default account is a savings account.
+The member is authorized: no
+
+Primary Member 58409: James T. Kirk is a Primary member.
+The default account is a savings account.
+The account balance is $378,457.94
+
+Primary Members: 3
+Secondary Members: 2

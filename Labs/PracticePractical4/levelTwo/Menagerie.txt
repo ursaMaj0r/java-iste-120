@@ -1,0 +1,22 @@
+
+Report on animals...
+Tiger: Number of Javan Tiger's per enclosure is 2, roams in Tiger Acreage #6
+Tiger: Number of False Network Catfish's per enclosure is 12, swims in Fresh Water
+Tiger: Number of Bengal Tiger's per enclosure is 2, roams in Ritchie Area of RIT
+Tiger: Number of Shark's per enclosure is 12, swims in Salt Water
+Tiger: Number of Siberian Tiger's per enclosure is 2, roams in Tiger Acreage #4
+
+Counts:
+ 	2 Fish
+ 	3 Tiger
+
+Report on animals...
+Tiger: Number of Javan Tiger's per enclosure is 2, roams in Tiger Acreage #6
+Tiger: Number of False Network Catfish's per enclosure is 12, swims in Fresh Water
+Tiger: Number of Bengal Tiger's per enclosure is 2, roams in Ritchie Area of RIT
+Tiger: Number of Shark's per enclosure is 12, swims in Salt Water
+Tiger: Number of Siberian Tiger's per enclosure is 2, roams in Tiger Acreage #4
+
+Counts:
+ 	2 Fish
+ 	3 Tiger
